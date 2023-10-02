@@ -13,7 +13,7 @@ function twoNums(nums, target) {
   }
   return [];
 }
-const nums = [2, 7, 11, 15,17];
+const nums = [2, 7, 11, 15, 17];
 const target = 9;
 const result = twoNums(nums, target);
 console.log(result);

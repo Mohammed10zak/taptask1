@@ -48,6 +48,10 @@ nav a {
   font-weight: bold;
 }
 
+nav ul li a span:hover {
+  color: #d1884f;
+}
+
 /* Style for the main content */
 main {
   text-align: center;
@@ -101,6 +105,7 @@ h1 {
   font-size: 36px;
   color: #008aaa;
   font-style: bold;
+  width: 400px;
 }
 
 h1 span {
@@ -116,6 +121,7 @@ span {
   font-family: "Poppins", sans-serif;
   font-weight: bold;
   margin-top: 40px;
+  width: 520px;
 }
 
 .more {
